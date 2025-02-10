@@ -117,7 +117,7 @@ header .navbar {
   width: 100%;
   bottom: 10px;
   text-align: center;
-  color: #FFF8E1;
+  color: black;
 }
 
 @media (max-width: 768px) {
